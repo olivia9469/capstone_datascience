@@ -5,6 +5,6 @@
 3. Data wrangling
 4. SQL
 5. EDA
-6. Plotly
-7. Folium
+6. Folium
+7. Plotly
 8. Machine learning
